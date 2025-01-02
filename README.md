@@ -32,7 +32,7 @@ A modern Flutter-based chatbot application featuring a voice assistant, multilin
 
 ### Multilingual Translation
 
-![Multilingual Translation](https://github.com/user-attachments/assets/38b4f7b8-84fd-4253-82e7-c79aff67e242) ![Multilingual Translation](https://github.com/user-attachments/assets/832594af-ea97-454d-b6cb-af6489a757f8)
+![Multilingual Translation](https://github.com/user-attachments/assets/832594af-ea97-454d-b6cb-af6489a757f8) ![Multilingual Translation](https://github.com/user-attachments/assets/38b4f7b8-84fd-4253-82e7-c79aff67e242)
 
 ### Voice Assistant
 ![Voice Assistant](https://github.com/user-attachments/assets/58da16cb-d90e-4598-bf5b-4657ea17b8ea)
