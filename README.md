@@ -27,16 +27,17 @@ A modern Flutter-based chatbot application featuring a voice assistant, multilin
 ### Home Screen
 ![Home Screen](https://github.com/user-attachments/assets/f7878e63-36e0-4395-ac85-d512869a768f)
 
-### Chat Screen![ss 2](https://github.com/user-attachments/assets/e659c608-5c9b-492b-a2c7-335bc1b2b4d8)
-
-![Chat Screen](assets/ss 2.png)
+### Chat Screen
+![Chat Screen](https://github.com/user-attachments/assets/e659c608-5c9b-492b-a2c7-335bc1b2b4d8)
 
 ### Multilingual Translation
-![Multilingual Translation](assets/ss 5.png)
-![Multilingual Translation](assets/ss 4.png)
+
+![Multilingual Translation](https://github.com/user-attachments/assets/38b4f7b8-84fd-4253-82e7-c79aff67e242)
+
+![Multilingual Translation](https://github.com/user-attachments/assets/711c499d-d10f-4fb0-96b3-8b596b6a9549)
 
 ### Voice Assistant
-![Voice Assistant](assets/ss 3.png)
+![Voice Assistant](https://github.com/user-attachments/assets/58da16cb-d90e-4598-bf5b-4657ea17b8ea)
 
 ---
 
