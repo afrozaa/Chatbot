@@ -25,10 +25,10 @@ A modern Flutter-based chatbot application featuring a voice assistant, multilin
 ## Screenshots
 
 ### Home Screen
-![Home Screen](https://github.com/user-attachments/assets/f7878e63-36e0-4395-ac85-d512869a768f)
-
-### Chat Screen
+![Home Screen](https://github.com/user-attachments/assets/f7878e63-36e0-4395-ac85-d512869a768f)       ### Chat Screen
 ![Chat Screen](https://github.com/user-attachments/assets/e659c608-5c9b-492b-a2c7-335bc1b2b4d8)
+
+
 
 ### Multilingual Translation
 
