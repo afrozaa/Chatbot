@@ -24,7 +24,8 @@ A modern Flutter-based chatbot application featuring a voice assistant, multilin
 
 ## Screenshots
 
-### Home Screen
+### Home Screen![ss1](https://github.com/user-attachments/assets/f7878e63-36e0-4395-ac85-d512869a768f)
+
 ![Home Screen](assets/ss 1.png)
 
 ### Chat Screen
